@@ -1,0 +1,161 @@
+<!doctype html>
+<html>
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="initial-scale=1, user-scalable=0, minimal-ui"> 
+  <title>常见问题-退还保养</title> 
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"> 
+  <link rel="stylesheet" type="text/css" href="css/new_home.css"> 
+  <link rel="stylesheet" type="text/css" href="css/swiper.min.css"> 
+  <script type="text/javascript" src="js/jquery.min.js"></script> 
+  <script type="text/javascript" src="js/bootstrap.min.js"></script> 
+  <script type="text/javascript" src="js/swiper.min.js"></script> 
+ </head> 
+ <body> 
+  <nav class="navbar navbar-default nav_bg" role="navigation"> 
+   <div class="container-fluid"> 
+    <div class="navbar-header"> 
+     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example-navbar-collapse"> <span class="sr-only">切换导航</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> 
+     <a class="navbar-brand" href="#"><img class="nav_img" src="images/myblogo.png"></a> 
+    </div> 
+    <div class="collapse navbar-collapse" id="example-navbar-collapse"> 
+     <ul class="nav navbar-nav nav_list"> 
+      <li> <a href="./index.html">首页</a> </li> 
+      <li> <a href="/product">监测仪</a> </li> 
+      <li> <a href="">最新资讯</a> </li> 
+      <li> <a href="./help.html">常见问题</a> </li> 
+      <li> <a href="./app.html">APP</a> </li> 
+      <li> <a href="">购买</a> </li> 
+      <li> <a href="./about.html">关于我们</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </nav> 
+  <div class="about_me"> 
+   <div class="container-fluid return_content"> 
+    <div class="row-fluid"> 
+     <div class="span12"> 
+      <div class="tabbable" id="tabs-714691"> 
+       <ul class="nav nav-tabs"> 
+        <li class="active"> <a href="#panel-228358" data-toggle="tab">常见问题</a> </li> 
+        <li> <a href="#panel-295814" data-toggle="tab">退还保修</a> </li> 
+       </ul> 
+       <div class="tab-content"> 
+        <div class="tab-pane active" id="panel-228358"> 
+         <div class="container-fluid return_fluid"> 
+          <div class="row-fluid"> 
+           <div class="about_text col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+            <ol> 
+             <li> <strong>什么是母婴宝母婴健康智能监测仪（家用）？</strong> </li> 
+             <li> <strong>母婴宝母婴健康智能监测仪（家用）的主要功能与意义？</strong> </li> 
+             <li> <strong>健康监测准不准？</strong> </li> 
+             <li> <strong>这款监测仪的优势在哪？与体重体脂称和去医院做孕检有什么不同？</strong> </li> 
+             <li> <strong>监测系统对孕产妇有没有损害？</strong> </li> 
+            </ol> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="container-fluid return_fluid"> 
+          <div class="row-fluid"> 
+           <div class="about_text col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+            <h4 class="fluid_title">Q1: 什么是母婴宝母婴健康智能监测仪（家用）？</h4> 
+            <p> <strong>A1：</strong>1、它有一台高品质、有认证、带蓝牙、有质保的体重体脂监测称。目前市面上各种体重体脂秤的功能它都有，所以购买一台称，全家都能用。称称体重体脂，监测全家健康。 </p> 
+            <p> 2、它有一套孕产妇专用的健康监测大数据算法。孕产妇或孩子的体重与体脂数据通过这套专用算法就能获得： </p> 
+            <ul> 
+             <li> 备孕期应达到的体重体脂是否标准； </li> 
+             <li> 怀孕期孕妇体重增长、胎儿体重发育是否达标，安产新生儿的体重预测； </li> 
+             <li> 产后恢复、瘦身塑形标准和宝宝发育成长等数据。 </li> 
+            </ul> 
+            <p> 这套算法是由湘雅二医院产科专家、湘雅医院新生儿科专家、国防科大计算机算法专家及大数据专家经过5年的联合攻关开发而成。准确率在92%以上，是目前各种计算方法中准确率最高的。 </p> 
+            <p> 3、它有一套养胎育儿智能分析和及时提醒系统，以及海量的妇幼保健和家庭教育内容知识库，能每天收到当天所需的养胎育儿知识、孕检提醒、疫苗接种提醒，如果监测结果属于不正常，系统会主动告诉你处理方法和相关知识。这套系统和知识库由国内著名妇幼保健专家和家庭教育专家通过八年的努力开发完成。其优势是：全面、系统、科学、有效。根据孕产妇的状况，智能化精准推送相关资讯，指导孕产妇每天做好优生优育和家庭教育。 </p> 
+            <p> 4、它有一个便捷的在线咨询和专家预约服务平台。通过母婴宝平台与自己的主治医生或社区妇幼专干连接起来，孕产妇可以把自己的监测结果发给专家看，随时咨询养胎育儿相关问题，提前预约医院孕检或就诊住院。 </p> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="container-fluid return_fluid "> 
+          <div class="row-fluid"> 
+           <div class="about_text col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+            <h4 class="fluid_title">Q2:<strong>母婴宝母婴健康智能监测仪（家用）的主要功能与意义</strong></h4> 
+            <p> <strong>A2：</strong>1、备孕期：通过体重和体脂率监测，可以从该方面分析用户的健康状态，指导用户调整生活方式，使自己达到最佳备孕状态。 </p> 
+            <p> 2、怀孕期：通过体重和体脂率等身体指标的监测健康状况。 </p> 
+            <p> （1）分析孕妇的体重增长是否符合标准增长指标，是正常还是偏瘦偏胖，或者是只长妈妈不长胎宝宝； </p> 
+            <p> （2）预测宝宝的体重增长，预测临产时宝宝的体重。 </p> 
+            <p> 通过该监测不但可以帮助孕妈妈对自己的体重增长进行科学管理，随时对自己的生活进行合理调整，避免盲目增加饮食或营养不协调，还可以预测和预防肥大儿的出现，作为顺产还是剖腹产分娩方式选择的参考依据。 </p> 
+            <p> 1.产后：享受初为人母喜悦后，可以通过体重体脂监测功能，精准管理自己的产后康复、生活营养和减肥瘦身活动，同时监测宝宝的身高体重发育状况，既可以恢复孕前的窈窕身材，又可以指导妈妈科学育儿。 </p> 
+            <p> 2.在线咨询与专家预约：监测过程中有什么问题，母婴宝APP后台系统会给予科学的处理建议。如果有疑问，可以将监测结果发送给自己的主治医生，请专家在线给予解答，母婴宝APP已对部分医院开放预约挂号，可以通过本平台进行预约，甚至可以享受预约专家主刀、主治等特殊服务。 </p> 
+            <p> 3.重点服务母婴，兼顾全家成员:该健康监测仪重点通过孕产妇的体重监测来管理孕产妇的健康体重、监测胎儿的大小，提示预防肥大儿，全程指导正确养胎和科学育儿。同时，转换检测模式，可以对家庭其他成员（丈夫、爷爷奶奶、外公外婆）的体重和体脂等体成分的健康进行监测，服务全家成员进行体重体脂管理，指导家庭成员的饮食保健、活动保健和心理保健。 </p> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="container-fluid return_fluid"> 
+          <div class="row-fluid"> 
+           <div class="about_text col-lg-12"> 
+            <h4 class="fluid_title">Q3：健康监测准不准？</h4> 
+            <p> 欧美国家经过长期研究表明，孕妇体重增加与胎儿、新生儿体重成正相关关系，并形成了欧美人种孕妇体重增长标准，以及新生儿体重预测标准。 </p> 
+            <p> <strong>A3：</strong>我国专家参照欧美研究方法和标准，已对我国孕妇体重增长做了长达数年的分析和大量的研究，出现很多研究成果，形成了符合部分国人的标准。并且成功的申请了多项国家专利，得到了市场的大量验证与医生专家的高度好评。 </p> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="container-fluid return_fluid"> 
+          <div class="row-fluid"> 
+           <div class="feature col-lg-12"> 
+            <h4 class="fluid_title">Q4：这款监测仪的优势在哪？与体重体脂称和去医院做孕检有什么不同？</h4> 
+            <p> <strong>A4：</strong>孕期体重管理、预测胎儿与新生儿重量、产后体重管理和宝宝体重管理，都非常重要。目前市面上可以通过体重体脂称来检测运气的体重体脂，指导孕产妇进行健康体重管理。同时，孕妇去医院孕检会称体重、作B超，会知道自己的体重是否符合标准、胎儿大概多重等。 </p> 
+            <p> 但是，目前市面出现的体重体脂称还停留在体重体脂检测和体重体脂管理，没有上升到健康监测和胎儿大小预测层次。而孕妇到医院定期孕检主要是医院专业检查给出的结果管理，整个孕期只有几次，难以做到过程管理和全程检测，而且每一次去孕检又比较很麻烦。 </p> 
+            <p> 而这款家用母婴健康智能监测仪，已经从普通的体重体脂管理上升到孕产妇的健康监测，并对胎儿体重发育进行过程管理、预测胎儿安产体重。相对于定期孕检的结果管理，该监测仪不仅让孕检部分功能走进家庭，让孕产妇在家随时进行过程监测，及时了解自身健康状况和胎儿大小，享受过程管理和快乐体验，能及时知道自己是否体重超标，预测胎儿和顺产宝宝的大小，指导孕产妇及时调整自己的饮食结构和生活方式，管理好自己的体重增长。因此，作为孕检的补充，该家用健康智能监测仪这对孕产妇合理管理孕期体重增加、预防肥大儿出现具有重要意义。 </p> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="container-fluid return_fluid"> 
+          <div class="row-fluid"> 
+           <div class="col-lg-12"> 
+            <h4 class="fluid_title">Q5：监测系统对孕产妇有没有损害？</h4> 
+            <p> <strong>A5：</strong>本监测系统对孕产妇、婴幼儿或其他使用者没有任何损害。 </p> 
+            <p> 该系统由带蓝牙的监测称 + 手机APP（或微信小程序）组成。监测称里面压力传感器、蓝牙设备和表面的玻璃，都是无损害的，本产品采用先进的生物电技术。每个人体内都有生物电，我们的心脏每跳动一次，都会放一次生物电，心电图就是根据这个原理来检测心脏功能的。孕妇的每一次心跳都会放电，胎宝宝很自然地接收到妈妈心跳放出的生物电，不会有任何影响。该监测称的生物电是由4节1.5v的7号蓄电池提供，到人体的生物电量少于孕妈妈心电的电量，对孕妈妈、胎儿、婴幼儿和其他用户，完全可以放心安全使用。 </p> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="tab-pane" id="panel-295814"> 
+         <div class="container-fluid"> 
+          <div class="row-fluid"> 
+           <div class="about_text col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+            <h4 class="fluid_title">退货政策</h4> 
+            <p> 快递签收后，无任何人为损坏的情况下，七日(含)之内可退货。 </p> 
+            <h4 class="fluid_title">换货政策</h4> 
+            <p> 快递签收后，无任何人为损坏的情况下，十五日(含)之内可换货。 </p> 
+            <h4 class="fluid_title">退换细则</h4> 
+            <p> 需提供与商品相关的保修卡等凭证。 </p> 
+            <p> 人为损坏是指不正当使用造成的损害，比如拆卸、置于高温环境、进水、摔打等造成的损伤。 </p> 
+            <p> 对于退货，收到产品后，十个工作日之内处理并退款。 </p> 
+            <p> 对于换货，收到产品后，十个工作日之内处理并快递新的产品。 </p> 
+            <p> 如需退货或者换货，请将产品寄往（拒收到付件）： </p> 
+            <p> 湖南省长沙市高新技术开发区麓天路8号 橡树园创业基地7栋4楼 </p> 
+            <p> </p>
+            <h4 class="fluid_title">电话：</h4>400-600-5627（工作时间：08:30-17:30）联系人：母婴宝客服 
+            <p></p> 
+            <h4 class="fluid_title clearfix">保修政策</h4> 
+            <p> 快递签收后，因商品质量问题，无任何人为损伤，公司在一年之内将提供免费保修服务。 </p> 
+            <p> </p>
+            <h4 class="fluid_title">正常维修处理周期: </h4>
+            <span class="pull-left">自接收到问题物品之日起20个工作日内为您处理完成。</span> 
+            <p></p> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="container-fluid about_bq"> 
+   <div class="row-fluid"> 
+    <div class="span12"> 
+     <p class="text-center"> 版权所有：湖南德沐数码科技有限公司 备案/许可证编号：湘ICP备13008184号 </p> 
+    </div> 
+   </div> 
+  </div>  
+ </body>
+</html>

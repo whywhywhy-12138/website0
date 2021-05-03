@@ -1,0 +1,283 @@
+<!doctype html>
+<html>
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="description" content="母婴宝官方网站,母婴健康智能监测仪众筹"> 
+  <meta name="Keywords" content="母婴宝,母婴健康,智能监测仪,京东众筹"> 
+  <meta name="viewport" content="initial-scale=1, user-scalable=0, minimal-ui"> 
+  <title>母婴宝 - 母婴健康智能监测专家</title> 
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"> 
+  <link rel="stylesheet" type="text/css" href="css/new_home.css"> 
+  <link rel="stylesheet" type="text/css" href="css/swiper.min.css"> 
+  <script type="text/javascript" src="js/jquery.min.js"></script> 
+  <script type="text/javascript" src="js/bootstrap.min.js"></script> 
+  <script type="text/javascript" src="js/swiper.min.js"></script> 
+ </head> 
+ <body> 
+  <!--导航--> 
+  <nav class="navbar navbar-default nav_bg" role="navigation"> 
+   <div class="container-fluid"> 
+    <div class="navbar-header"> 
+     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example-navbar-collapse"> <span class="sr-only">切换导航</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> 
+     <a class="navbar-brand" href="#"><img class="nav_img" src="images/myblogo.png"></a> 
+    </div> 
+    <div class="collapse navbar-collapse" id="example-navbar-collapse"> 
+     <ul class="nav navbar-nav nav_list"> 
+      <li> <a href="./index.html">首页</a> </li> 
+      <li> <a href="/product">监测仪</a> </li> 
+      <li> <a href="">最新资讯</a> </li> 
+      <li> <a href="./help.html">常见问题</a> </li> 
+      <li> <a href="./app.html">APP</a> </li> 
+      <li> <a href="">购买</a> </li> 
+      <li> <a href="./about.html">关于我们</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </nav> 
+  <section class=""> 
+   <!--轮播图--> 
+   <div class="swiper-container" id="swiper1" style="padding-top: 0;"> 
+    <div class="swiper-wrapper"> 
+     <div class="swiper-slide swiper_slide">
+      <img class="page_img img-rounded" src="images/baner2.png">
+     </div> 
+     <div class="swiper-slide swiper_slide">
+      <img class="page_img img-rounded" src="images/baner3.jpg">
+     </div> 
+     <div class="swiper-slide swiper_slide">
+      <img class="page_img img-rounded" src="images/baner1.jpg">
+     </div> 
+    </div> 
+    <!-- Add Pagination --> 
+    <div class="swiper-pagination"></div> 
+    <!-- Add Arrows --> 
+    <div class="swiper-button-next"></div> 
+    <div class="swiper-button-prev"></div> 
+   </div> 
+   <!--我们的服务--> 
+   <div class="container-fluid"> 
+    <div class="row-fluid"> 
+     <div class="span12"> 
+      <h3 class="text-center"> 我们的<span style="color: #ff6688;">服务</span> </h3> 
+      <p class="text-center"> 我们在母婴宝提供多元化服务，我们将在这里列出一些,为了向您展示我们在对母婴的专业性服务和科学合理人性化的准则！ </p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="container"> 
+    <div class="row"> 
+     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-4 service_img"> 
+      <img class="page_img img_service" src="images/fw01.jpg"> 
+     </div> 
+     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-4 service_img"> 
+      <img class="page_img img_service" src="images/fw02.jpg"> 
+     </div> 
+     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-4 service_img"> 
+      <img class="page_img img_service" src="images/fw03.png"> 
+     </div> 
+    </div> 
+   </div> 
+   <!--我们的特点--> 
+   <div class="container-fluid"> 
+    <div class="row-fluid"> 
+     <div class="span12"> 
+      <h3 class="text-center"> 我们的<span style="color: #ff6688;">特点</span> </h3> 
+      <p class="text-center"> 我们在母婴宝提供多元化服务，我们将在这里列出一些,为了向您展示我们在对母婴的专业性服务和科学合理人性化的准则！ </p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="index_feature"> 
+    <div class="container-fluid index_feature_row"> 
+     <div class="row-fluid"> 
+      <div class="feature col-lg-3  col-md-6  col-sm-6 col-xs-12"> 
+       <div class="row-fluid"> 
+        <div class="col-lg-4  col-md-3 col-sm-3 col-xs-3 img-rounded"> 
+         <img class="img-rounded" src="images/icon1.png"> 
+        </div> 
+        <div class="index_list col-lg-8  col-md-9 col-sm-9 col-xs-9 "> 
+         <p> 宝宝成长发育曲线 </p> 
+         <p> 宝宝发育每天变化一点点，母婴伴随成长 </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="feature col-lg-3  col-md-6  col-sm-6 col-xs-12"> 
+       <div class="row-fluid"> 
+        <div class="col-lg-4  col-md-3 col-sm-3 col-xs-3 img-rounded"> 
+         <img class="img-rounded" src="images/icon2.png"> 
+        </div> 
+        <div class="index_list col-lg-8 col-md-9 col-sm-9 col-xs-9"> 
+         <p> 轻松检测婴儿体重 </p> 
+         <p> 智能选择称重模式 </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="feature col-lg-3  col-md-6  col-sm-6 col-xs-12"> 
+       <div class="row-fluid"> 
+        <div class="col-lg-4  col-md-3 col-sm-3 col-xs-3 img-rounded"> 
+         <img class="img-rounded" src="images/icon3.png"> 
+        </div> 
+        <div class="index_list col-lg-8  col-md-9 col-sm-9 col-xs-9"> 
+         <p> 实用好玩的孕育工具 </p> 
+         <p> 生男生女，宝宝起名，计算预产期工具 </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="feature col-lg-3  col-md-6  col-sm-6 col-xs-12"> 
+       <div class="row-fluid"> 
+        <div class="col-lg-4  col-md-3 col-sm-3 col-xs-3 img-rounded"> 
+         <img class="img-rounded" src="images/icon4.png"> 
+        </div> 
+        <div class="index_list col-lg-8  col-md-9 col-sm-9 col-xs-9"> 
+         <p> 科学孕育膳食管理 </p> 
+         <p> 自己吃啥，宝宝吃啥？想知道全都有 </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="feature col-lg-3  col-md-6  col-sm-6 col-xs-12"> 
+       <div class="row-fluid"> 
+        <div class="col-lg-4  col-md-3 col-sm-3 col-xs-3 img-rounded"> 
+         <img class="img-rounded" src="images/icon5.png"> 
+        </div> 
+        <div class="index_list col-lg-8  col-md-9 col-sm-9 col-xs-9"> 
+         <p> 孕育体重增势预警 </p> 
+         <p> 孕妈体重增长了还是减轻了 </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="feature col-lg-3  col-md-6  col-sm-6 col-xs-12"> 
+       <div class="row-fluid"> 
+        <div class="col-lg-4  col-md-3 col-sm-3 col-xs-3 img-rounded"> 
+         <img src="images/icon6.png"> 
+        </div> 
+        <div class="index_list col-lg-8  col-md-9 col-sm-9 col-xs-9"> 
+         <p> 精确的孕育知识 </p> 
+         <p> 日报，周报，月报，每日精准推送 </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="feature col-lg-3  col-md-6  col-sm-6 col-xs-12"> 
+       <div class="row-fluid"> 
+        <div class="col-lg-4  col-md-3 col-sm-3 col-xs-3 img-rounded"> 
+         <img src="images/icon7.png"> 
+        </div> 
+        <div class="index_list col-lg-8  col-md-9 col-sm-9 col-xs-9"> 
+         <p> 动态评估宝宝发育 </p> 
+         <p> 持续监测孕妈体征数据，大数据分析，准确称出胎儿体重 </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="feature col-lg-3  col-md-6  col-sm-6 col-xs-12"> 
+       <div class="row-fluid"> 
+        <div class="col-lg-4  col-md-3 col-sm-3 col-xs-3 img-rounded"> 
+         <img src="images/icon8.png"> 
+        </div> 
+        <div class="index_list col-lg-8  col-md-9 col-sm-9 col-xs-9"> 
+         <p> 可靠健康专家服务 </p> 
+         <p> 健康医学知识我不懂怎么办，怎么办？有专家更可靠 </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!--广告图--> 
+   <div class="row"> 
+    <div class="col-lg-12"> 
+     <img class="page_img img-rounded" src="images/baner4.png"> 
+    </div> 
+   </div> 
+   <!--我们的团队--> 
+   <div class="container-fluid"> 
+    <div class="row-fluid"> 
+     <div class="span12"> 
+      <h3 class="text-center"> 我们的<span style="color: #ff6688;">团队</span> </h3> 
+      <p class="text-center"> 我们在母婴宝提供多元化服务，我们将在这里列出一些,为了向您展示我们在对母婴的专业性服务和科学合理人性化的准则！ </p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="container team_show"> 
+    <div class="row"> 
+     <div class="zc_img col-lg-3 col-md-6 col-sm-6 col-xs-6">
+      <img class="page_img" src="images/baner1.jpg">
+     </div> 
+     <div class="zc_img col-lg-3 col-md-6 col-sm-6 col-xs-6">
+      <img class="page_img" src="images/baner1.jpg">
+     </div> 
+     <div class="zc_img col-lg-3 col-md-6 col-sm-6 col-xs-6">
+      <img class="page_img" src="images/baner1.jpg">
+     </div> 
+     <div class="zc_img col-lg-3 col-md-6 col-sm-6 col-xs-6">
+      <img class="page_img" src="images/baner1.jpg">
+     </div> 
+    </div> 
+   </div> 
+  </section> 
+  <footer class="footer"> 
+   <div class="container-fluid footer_conter"> 
+    <div class="row-fluid  footer_row"> 
+     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6  footer_img"> 
+      <img class="page_img" src="images/ft1.png"> 
+     </div> 
+     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 footer_img"> 
+      <img class="page_img" src="images/ft2.png"> 
+     </div> 
+     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 footer_img"> 
+      <img class="page_img" src="images/ft3.png"> 
+     </div> 
+     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 footer_img"> 
+      <img class="page_img" src="images/ft4.png"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="container-fluid footer_conter"> 
+    <div class="row-fluid"> 
+     <div class="foot_nav col-lg-3 col-md-3 col-sm-3 col-xs-6"> 
+      <p>产品</p> 
+      <p> <a href="/product">产品详情</a> </p> 
+     </div> 
+     <div class="foot_nav col-lg-3 col-md-3 col-sm-3 col-xs-6"> 
+      <p>购买查询</p> 
+      <p> <a href="https://z.jd.com/project/details/92694.html?from=jr_search&amp;type=0" target="_blank">购买</a> </p> 
+     </div> 
+     <div class="foot_nav col-lg-3 col-md-3 col-sm-3 col-xs-6"> 
+      <p>客户服务</p> 
+      <p> <a href="./help.html">常见问题</a> </p> 
+      <p> <a href="./help.html">退还保修</a> </p> 
+      <p> <a href="">服务条款</a> </p> 
+     </div> 
+     <div class="foot_nav  col-lg-3 col-md-3 col-sm-3 col-xs-6"> 
+      <p>关于我们</p> 
+      <p> <a href="./about.html">公司介绍</a> </p> 
+      <p> <a href="./about.html">联系我们</a> </p> 
+      <p> <a href="">媒体报道</a> </p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="container-fluid"> 
+    <div class="row-fluid"> 
+     <div class="span12"> 
+      <p class="text-center" style="color: #FFFFFF;"> 版权所有：湖南德沐科技有限公司 备案/许可证编号： <a href="https://beian.miit.gov.cn/" target="blank">湘ICP备12013582号-4</a> </p> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- Initialize Swiper --> 
+  <script type="text/javascript">
+			var swiper1 = new Swiper('#swiper1', {
+				pagination: '.swiper-pagination',
+				nextButton: '.swiper-button-next',
+				prevButton: '.swiper-button-prev',
+				paginationClickable: true,
+				spaceBetween: 30,
+				centeredSlides: true,
+				autoplay: 3000,
+				autoplayDisableOnInteraction: false
+			});
+		</script> 
+  <script>
+                    $('#swiper1 img').click(function(){
+                                location.href = '#';
+                        })
+
+               </script>  
+ </body>
+</html>
